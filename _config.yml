@@ -4,3 +4,6 @@ github: mishfit
 twitter: notapplicable
 markdown: redcarpet
 pygments: true
+
+# Google Analytics
+google_analytics_tracking_id: UA-48627216-1
