@@ -109,3 +109,4 @@ UpgradeLog*.XML
 
 # jekyll "_site" generated files
 _site
+.DS_Store
