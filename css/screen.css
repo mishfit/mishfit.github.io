@@ -205,23 +205,28 @@ a {
 }
 #sub-nav .social a:hover { opacity: 1 }
 #sub-nav .social a.email {
-    background: url('/images/social/email.png?1385702818') center no-repeat #d53;
+    background: url('/images/social/email.png') center no-repeat #d53;
     border: 1px solid #55cff8;
 }
 #sub-nav .social a.twitter {
-    background: url('/images/social/twitter.png?1385702818') center no-repeat #55cff8;
+    background: url('/images/social/twitter.png') center no-repeat #55cff8;
     border: 1px solid #55CFF8;
 }
 #sub-nav .social a.twitter:hover { border: 1px solid #24c1f6 }
 #sub-nav .social a.github {
-    background: url('/images/social/github.png?1385702818') center no-repeat #afb6ca;
+    background: url('/images/social/github.png') center no-repeat #afb6ca;
     border: 1px solid #afb6ca;
 }
 #sub-nav .social a.github:hover { border: 1px solid #909ab6 }
 #sub-nav .social a.rss {
-    background: url('/images/social/rss.png?1385702818') center no-repeat #ef7522;
+    background: url('/images/social/rss.png') center no-repeat #ef7522;
     border: 1px solid #EF7522;
 }
+#sub-nav .social a.pgp {
+    background: url('/images/social/lock.png') center no-repeat #090;
+    border: 1px solid #55cff8;
+}
+
 #sub-nav .social a.rss:hover { border: 1px solid #cf5d0f }
 #pagenavi {
     padding: 20px 0;

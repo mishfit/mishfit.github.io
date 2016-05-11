@@ -3,7 +3,7 @@ layout: post
 title: "Liberty: We're Just Not Getting It"
 date: 2015-10-16 09:07:00
 comments: true
-categeries: [national-debate liberty government freedom]
+categories: [national debate,liberty,government,freedom]
 ---
 It seems these days people can't resist debating a number of issues on the national level. What is particularly problematic is very few of these issues affect only the interested or most passionate of those involved in the debate.
 In fact, some involved in the arguments are the least affected by the outcomes.

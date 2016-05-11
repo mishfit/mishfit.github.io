@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Representation is a Myth"
+date: 2016-02-07 09:24:00
+comments: true
+categories: [politics,anarchy]
+---
 
 Representation is a Myth
 
