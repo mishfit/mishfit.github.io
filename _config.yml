@@ -9,6 +9,7 @@ subtitle: just wait, he's thinking
 gravatar_url: http://www.gravatar.com/avatar/47d3b3db28b9a5cd3adbaf52f924099c.png
 name: Mish Ochu
 email: mishochu@gmail.com
+pgp_key_src: /artifacts/mishochu-public-key.asc
 
 # Github repositories
 github_user: mishfit
@@ -27,9 +28,7 @@ google_analytics_tracking_id: UA-48627216-1
 #
 # Jekyll Settings
 #
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
+markdown: kramdown
 permalink: /archive/:year/:month/:day/:title/
 paginate: 20
 paginate_path: "page/:num"

@@ -3,7 +3,7 @@ layout: post
 title: "Brevity is an Acceptable Policy"
 date: 2015-09-12 00:24:00
 comments: true
-categeries: [csharp dnx]
+categories: [csharp,dnx]
 ---
 Okay when it comes to code, "comprehension is king". Readability trumps cleverness (I feel like my usage of the word "trump" has increased over the last few months, I wonder why). I am sometimes bitten by the cleverness bug and it seems C# 6 will let me cater to those times. The penultimate "hello world" example allows us to showcase this:
 
